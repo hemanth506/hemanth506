@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Hemanth Raaj
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react.js and node.js frameworks
-- 💞️ I’m looking to collaborate on web development
+- 🌱 Currently working on two projects
+      -  Twilio using react.js and node.js 
+      -  web application product which is developed using PHP, JavaScript, Jquery, Mysql. 
 - 📫 You can reach me through email (hemanthraaj31@gmail.com)
 
 <!---
