@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding
 - 🌱 Currently working on two projects
 
-      -  Twilio using react.js and node.js 
+      -  IVR based in Twilio using react.js and node.js 
       
-      -  web application product which is developed using PHP, JavaScript, Jquery, Mysql. 
+      -  Web application based which is developed using PHP, JavaScript, Jquery, Mysql. 
 - 📫 You can reach me through email (hemanthraaj31@gmail.com)
 
 <!---
