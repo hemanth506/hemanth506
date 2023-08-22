@@ -3,7 +3,9 @@
 - 🌱 Currently working on two projects
 
       -  IVR based in Twilio using react.js and node.js 
-      -  Web application based which is developed using PHP, JavaScript, Jquery, and Mysql. 
+      -  Web application based which is developed using PHP, JavaScript, Jquery, and MySQL.
+  
+- Languages known are Node, Java, React, Typescript, core PHP, JavaScript, Jquery MongoDB, and Mysql.
 - 📫 You can reach me through email (hemanthraaj31@gmail.com / www.linkedin.com/in/hemanth-raaj-g-56a4a6188/)
 
 <!---
