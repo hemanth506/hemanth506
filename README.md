@@ -5,14 +5,14 @@ I'm just an engineer passionate about coding and always striving to become bette
 ## About Me
 
 - 💻 Full-stack/Backend Engineer
-- 🌐 Experienced in MERN and PERN stack (MongoDB/Postgres, Express.js, React, Node.js)
+- 🌐 Experienced in MERN and PERN stack (MongoDB/PostgreSQL, Express.js, React, Node.js)
 - 🧠 Interested in reading about System design and solving Data Structures and Algorithms problems
 - 🚀 Always eager to learn and explore new technologies
 
 ## Skills
 
 - 🖥️ Languages: Node.js, React, TypeScript, JavaScript, Kafka
-- 🛢️ Databases: MongoDB, MySQL, Postgres
+- 🛢️ Databases: MongoDB, MySQL, PostgreSQL
 
 ## Get in Touch
 
