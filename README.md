@@ -1,18 +1,18 @@
 # Hi there, I'm Hemanth Raaj G. 👋
 
-I'm just an engineer passionate about coding and always striving to become better. Currently, I work as a full-stack web developer, diving into the intricacies of software development.
+I'm just an engineer passionate about coding and always striving to become better. Currently, I work as a full-stack developer, diving into the intricacies of software development.
 
 ## About Me
 
-- 💻 Full-stack Web Developer
-- 🌐 Working with MERN stack (MongoDB, Express.js, React, Node.js)
-- 🧠 Interested in solving Data Structures and Algorithms problems
+- 💻 Full-stack/Backend Engineer
+- 🌐 Experienced in MERN and PERN stack (MongoDB/Postgres, Express.js, React, Node.js)
+- 🧠 Interested in reading about System design and solving Data Structures and Algorithms problems
 - 🚀 Always eager to learn and explore new technologies
 
 ## Skills
 
-- 🖥️ Languages: Node.js, Java, React, TypeScript, core PHP, JavaScript, jQuery
-- 🛢️ Databases: MongoDB, MySQL
+- 🖥️ Languages: Node.js, React, TypeScript, JavaScript, Kafka
+- 🛢️ Databases: MongoDB, MySQL, Postgres
 
 ## Get in Touch
 
